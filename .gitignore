@@ -1,0 +1,3 @@
+tf-gcp-test-01/terraform.tfstate
+tf-gcp-test-01/.terraform
+tf-gcp-test-01/.terraform.lock.hcl
